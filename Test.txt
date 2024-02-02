@@ -1,3 +1,0 @@
-Hii, I am Shivani Katke
-Welcome to my GitHub Repository.
-This is a test file to check the git and GitHub configuration.
